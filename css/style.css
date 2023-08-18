@@ -3,8 +3,8 @@ body {
     font-family: 'Ubuntu', sans-serif;
     background-color: #f9f7f4;
     color: #474747;
-    margin-left: 32px;
-    margin-right: 32px;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
 /* HEADER */
@@ -36,7 +36,7 @@ a{
 /* HOME */
 
 .jumbotron {
-    margin-top: 48px;
+    margin-top: 4rem;
 }
 
 h5 {
@@ -48,17 +48,17 @@ h1{
 }
 
 #mission {
-    margin-bottom: 48px;
+    margin-bottom: 4rem;
 }
 
 .end {
-    margin-bottom: 48px;
+    margin-bottom: 4rem;
 }
 
 .btnContainer {
     display: flex;
     justify-content: center;
-    margin-bottom: 96px;
+    margin-bottom: 8rem;
 }
 
 .btn-primary {
@@ -104,7 +104,7 @@ h1{
 }
 
 .sectionTitle {
-    padding-bottom: 48px;
+    padding-bottom: 4rem;
 }
 
 .projectLink {
@@ -117,29 +117,29 @@ h1{
 }
 
 .projectTitle h3 {
-    margin-bottom: 16px;
+    margin-bottom: 2rem;
 }
 
 .projectTitle h4 {
-    margin-bottom: 48px;
+    margin-bottom: 4rem;
 }
 
 .project {
-    margin-bottom: 96px;
+    margin-bottom: 8rem;
 }
 
 /* ABOUT */
 
 .pageTitle {
-    margin-top: 48px;
+    margin-top: 4rem;
 }
 
 .bio {
-    margin-right: 32px;
+    margin-right: 2rem;
 }
 
 .headshot {
-    width: 100%;
+    width: 320px;
     height: auto;
 }
 
@@ -182,7 +182,7 @@ iframe {
 /* FOOTER */
 
 footer {
-    padding: 16px 32px;
+    padding: 1rem 2rem;
 }
 
 #footerInitials {
