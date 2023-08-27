@@ -128,6 +128,14 @@ h1{
     margin-bottom: 8rem;
 }
 
+.projectImage {
+    width: 100%;
+}
+
+.subtitle {
+    padding-right: 1rem;
+}
+
 /* ABOUT */
 
 .pageTitle {
