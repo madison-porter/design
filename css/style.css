@@ -106,10 +106,10 @@ iframe {
 
 #footerInitials {
     font-family: Lora;
-}
-
-h5 {
     font-weight: 600;
+    font-size: 1.25rem;
+    margin-bottom: 0;
+
 }
 
 /* MEDIA QUERIES */
